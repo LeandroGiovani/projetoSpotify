@@ -6,6 +6,9 @@ O Projeto Spotify é uma réplica do famoso serviço de streaming de música Spo
 ## Versão
 Versão atual: 1.0
 
+## Acesso ao Deploy
+Você pode acessar a versão hospedada do projeto através do seguinte link: [Projeto Spotify](https://projetospotifynet.onrender.com). (Isso pode levar algum tempo).
+
 ## Tecnologias Utilizadas
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 - **Node.js**: Ambiente de execução JavaScript server-side.
@@ -16,7 +19,7 @@ Versão atual: 1.0
 - **MongoDB**: Banco de dados NoSQL utilizado para armazenar os dados da aplicação.
 - **Vite**: Ferramenta de build e desenvolvimento para projetos front-end.
 
-## Como Executar o Projeto
+## Como Executar o Projeto (localhost)
 1. Clone o repositório para sua máquina local.
 2. Instale as dependências do projeto utilizando `npm install` nas pastas front-end e back-end.
 3. Na raiz do projeto, navegue até a pasta back-end com o comando `cd .\back-end\`.
