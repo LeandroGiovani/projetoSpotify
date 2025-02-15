@@ -31,5 +31,5 @@ Você pode acessar a versão hospedada do projeto através do seguinte link: [Pr
 6. Inicie o servidor frontend com `npm run dev`.
 7. Acesse a aplicação através do navegador no endereço `http://localhost:5173/`.
 
-## Contribuição
+## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
