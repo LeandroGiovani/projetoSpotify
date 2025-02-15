@@ -3,6 +3,9 @@
 ## Descrição
 O Projeto Spotify é uma réplica do famoso serviço de streaming de música Spotify. Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidades em diversas tecnologias modernas de desenvolvimento web.
 
+## Aviso!
+Vale destacar que, para otimizar o desenvolvimento, foi enviada apenas uma música de cada artista, evitando sobrecarregar o sistema de hospedagem. Isso significa que, embora a aplicação armazene 10 músicas por artista, apenas uma estará disponível para reprodução.
+
 ## Versão
 Versão atual: 1.0
 
