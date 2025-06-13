@@ -1,35 +1,86 @@
-# Projeto Spotify
 
-## Descrição
-O Projeto Spotify é uma réplica do famoso serviço de streaming de música Spotify. Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidades em diversas tecnologias modernas de desenvolvimento web.
+# 🎧 Projeto Spotify - Clone Interativo
 
-## Aviso!
-Vale destacar que, para otimizar o desenvolvimento, foi enviada apenas uma música de cada artista, evitando sobrecarregar o sistema de hospedagem. Isso significa que, embora a aplicação armazene 10 músicas por artista, apenas uma estará disponível para reprodução.
+## 📌 Descrição
 
-## Versão
-Versão atual: 1.0
+O **Projeto Spotify** é uma réplica simplificada e interativa do popular serviço de streaming de música **Spotify**. Desenvolvido com o objetivo de praticar e demonstrar habilidades em tecnologias modernas de desenvolvimento web full stack, o projeto simula funcionalidades essenciais da plataforma real.
 
-## Acesso ao Deploy
-Você pode acessar a versão hospedada do projeto através do seguinte link: [Projeto Spotify](https://projetospotifynet.onrender.com). (Isso pode levar algum tempo).
+Além do foco técnico, a proposta também visa explorar a integração entre front-end, back-end e banco de dados, com uma interface limpa e responsiva.
 
-## Tecnologias Utilizadas
-- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
-- **Node.js**: Ambiente de execução JavaScript server-side.
-- **JavaScript**: Linguagem de programação utilizada tanto no front-end quanto no back-end.
-- **HTML**: Linguagem de marcação utilizada para estruturar as páginas web.
-- **CSS**: Linguagem de estilo utilizada para estilizar as páginas web.
-- **Express JS**: Framework para Node.js utilizado para construir a API do servidor.
-- **MongoDB**: Banco de dados NoSQL utilizado para armazenar os dados da aplicação.
-- **Vite**: Ferramenta de build e desenvolvimento para projetos front-end.
+---
 
-## Como Executar o Projeto (localhost)
-1. Clone o repositório para sua máquina local.
-2. Instale as dependências do projeto utilizando `npm install` nas pastas front-end e back-end.
-3. Na raiz do projeto, navegue até a pasta back-end com o comando `cd .\back-end\`.
-4. Inicie o servidor backend com `node .\api\server.js`.
-5. Na raiz do projeto, navegue até a pasta front-end com o comando `cd .\front-end\`.
-6. Inicie o servidor frontend com `npm run dev`.
-7. Acesse a aplicação através do navegador no endereço `http://localhost:5173/`.
+## ⚠️ Aviso Importante
 
-## Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
+Para otimizar o desempenho do projeto em ambiente de hospedagem gratuita, **apenas uma música por artista está disponível para reprodução**, embora a aplicação esteja preparada para armazenar até **10 músicas por artista** no banco de dados.
+
+---
+
+## 🚀 Acesse o Projeto
+
+🔗 [Clique aqui para acessar a aplicação online](https://projetospotifynet.onrender.com)
+
+> ⚠️ O carregamento inicial pode demorar alguns segundos, pois o projeto está hospedado em um plano gratuito da plataforma Render.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+### Front-end:
+- **React** – Biblioteca JavaScript para criação de interfaces modernas.
+- **Vite** – Ferramenta de build rápida para projetos front-end.
+- **HTML5** e **CSS3** – Estrutura e estilização das páginas.
+- **JavaScript** – Lógica da aplicação no front-end.
+
+### Back-end:
+- **Node.js** – Ambiente de execução para JavaScript no servidor.
+- **Express.js** – Framework para criação de rotas e APIs REST.
+- **MongoDB** – Banco de dados NoSQL para armazenamento dos dados.
+
+---
+
+## 🧪 Como Executar Localmente
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/projeto-spotify-clone.git
+   ```
+2. Instale as dependências:
+   ```bash
+   # Na pasta /back-end
+   cd back-end
+   npm install
+
+   # Em seguida, na pasta /front-end
+   cd ../front-end
+   npm install
+   ```
+
+3. Inicie o servidor back-end:
+   ```bash
+   cd ../back-end
+   node ./api/server.js
+   ```
+
+4. Inicie o front-end:
+   ```bash
+   cd ../front-end
+   npm run dev
+   ```
+
+5. Acesse a aplicação no navegador:
+   ```
+   http://localhost:5173/
+   ```
+
+---
+
+## 🤝 Contribuições
+
+Contribuições são sempre bem-vindas!  
+Se você encontrou algum bug, tem sugestões de melhorias ou deseja colaborar, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+
+---
+
+## 📄 Licença
+
+Este projeto é apenas para fins educacionais e não possui qualquer vínculo com a marca Spotify.
